@@ -34,3 +34,40 @@
 /home/rich/Desktop/Projects/Personal Vault Platform/server/obj/Debug/net10.0/server.pdb
 /home/rich/Desktop/Projects/Personal Vault Platform/server/obj/Debug/net10.0/server.genruntimeconfig.cache
 /home/rich/Desktop/Projects/Personal Vault Platform/server/obj/Debug/net10.0/ref/server.dll
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\appsettings.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\server.staticwebassets.endpoints.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\server.exe
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\server.deps.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\server.dll
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\server.pdb
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.csproj.AssemblyReference.cache
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\scopedcss\bundle\server.styles.css
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.csproj.Up2Date
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.dll
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.pdb
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\horic\OneDrive\Desktop\.NET Projects\Personal-Vault-Platform\server\obj\Debug\net10.0\ref\server.dll
